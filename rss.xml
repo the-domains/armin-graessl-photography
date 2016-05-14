@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Armin Graessl Photography]]></title>
         <description><![CDATA[Armin Graessl Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/armin-graessl-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 12:45:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 12:45:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/armin-graessl-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34d631c7-bf64-43c0-9c99-ce6cbaa30ff3.jpg">]]></description>
+            <link>https://thegrid.ai/armin-graessl-photography/bdba0a38-e8a6-4d6a-add9-6f35d5717323/index.html</link>
+            <guid isPermaLink="false">bdba0a38-e8a6-4d6a-add9-6f35d5717323</guid>
+            <pubDate>Sat, 14 May 2016 12:45:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09575a02-524f-46fb-87e9-463f4332d91c.jpg">]]></description>
-            <link>undefinedc8073b95-09e5-44ee-a6be-ab644649b2a6/index.html</link>
+            <link>https://thegrid.ai/armin-graessl-photography/c8073b95-09e5-44ee-a6be-ab644649b2a6/index.html</link>
             <guid isPermaLink="false">c8073b95-09e5-44ee-a6be-ab644649b2a6</guid>
             <pubDate>Sat, 14 May 2016 12:44:59 GMT</pubDate>
         </item>
